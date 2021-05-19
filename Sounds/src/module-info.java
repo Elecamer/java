@@ -1,0 +1,2 @@
+module Sounds {
+}
